@@ -8,7 +8,6 @@
 
 This repository contains a complete end-to-end Data Warehouse and Analytics project.  
 The project demonstrates how to design and implement a modern data warehouse using SQL Server, following industry best practices.
-
 The workflow covers data ingestion, transformation, modeling, and analytical reporting.
 
 ---
